@@ -28,8 +28,8 @@
 
 ### Most used languages:
 
-[theme-dark]: #gh-dark-mode-only
-[theme-light]: #gh-light-mode-only
+[theme-dark]: ./#gh-dark-mode-only
+[theme-light]: ./#gh-light-mode-only
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] 
 
