@@ -20,10 +20,7 @@
 [![website](icons/telegram-dark.svg)][telegram-dark]
 
 
-<!--
 ### Languages and tools:
->   In progress
--->
 
 
 ### Statistics:
@@ -35,4 +32,3 @@
 |-|-|
 
 
-### Languages and tools:
