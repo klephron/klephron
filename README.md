@@ -26,10 +26,13 @@
 -->
 
 
-### Most used languages:
+### Statistics:
 
 [theme-dark]: https://github.com/zubrailx/zubrailx/#gh-dark-mode-only
 [theme-light]: https://github.com/zubrailx/zubrailx/#gh-light-mode-only
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=light)][theme-light] |[![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&hide_title=true&show_icons=true&include_all_commits=true)][theme-dark] [![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=light&&hide_title=true&show_icons=true&include_all_commits=true)][theme-light] |
 |-|-|
+
+
+### Languages and tools:
