@@ -31,6 +31,22 @@
 [theme-dark]: https://github.com/zubrailx/zubrailx/#gh-dark-mode-only
 [theme-light]: https://github.com/zubrailx/zubrailx/#gh-light-mode-only
 
+<table>
+<tr>
+  <td>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=light)][theme-light] 
+
+  </td>
+  <td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=light)][theme-light] 
+
+  </td>
+</tr>
+</table>
+
