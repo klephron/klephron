@@ -71,8 +71,8 @@ For for information check out my resume.
 <details>
 <summary>More stuff about me</summary>
 
-#### Github Stats
 
+#### Github Stats:
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=light)][theme-light] |[![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&hide_title=true&show_icons=true&include_all_commits=true)][theme-dark] [![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=light&&hide_title=true&show_icons=true&include_all_commits=true)][theme-light] |
 |-|-|
