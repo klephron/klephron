@@ -24,6 +24,10 @@
 ---
 ### Technical Skills:
 
+<!--
+For for information check out my resume.
+-->
+
 #### Languages:
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />]()
 &nbsp;
