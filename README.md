@@ -1,6 +1,7 @@
 ### Seeking position in: -
 
 
+---
 ### How to reach me:
 
 [vk-light]: https://vk.com/zubrailx#gh-dark-mode-only
@@ -20,6 +21,7 @@
 [![website](icons/telegram-dark.svg)][telegram-dark]
 
 
+---
 ### Technical Skills:
 
 #### Languages:
@@ -38,6 +40,7 @@
 &nbsp;
 [<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">]()
 
+
 #### Frameworks:
 
 
@@ -45,6 +48,7 @@
 
 <br>
 
+---
 <details>
 <summary>More stuff about me</summary>
 
