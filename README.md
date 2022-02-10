@@ -1,7 +1,6 @@
 ### Seeking position in: -
 
 
----
 ### How to reach me:
 
 [vk-light]: https://vk.com/zubrailx#gh-dark-mode-only
@@ -21,10 +20,7 @@
 [![website](icons/telegram-dark.svg)][telegram-dark]
 
 
----
-
 ### Technical Skills:
-
 
 #### Languages:
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />]()
