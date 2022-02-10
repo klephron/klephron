@@ -33,8 +33,13 @@
 
 #### Tools:
 
+<br>
 
-### More stuff about me:
+<details>
+<summary>More stuff about me</summary>
+</details>
+
+<br>
 
 #### Github Stats
 
