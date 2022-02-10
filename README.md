@@ -1,7 +1,8 @@
-### Hi there 👋
+### Seeking position in: -
 
 
-### How to reach me:
+---
+## How to reach me:
 
 [vk-light]: https://vk.com/zubrailx#gh-dark-mode-only
 [vk-dark]: https://vk.com/zubrailx#gh-light-mode-only
@@ -20,8 +21,11 @@
 [![website](icons/telegram-dark.svg)][telegram-dark]
 
 
-### Languages and tools:
+---
+## Languages and tools:
 
+
+## Technical Skills:
 
 ### Statistics:
 
