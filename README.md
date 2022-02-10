@@ -25,8 +25,22 @@
 
 ### Technical Skills:
 
-#### Languages:
 
+#### Languages:
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+&nbsp;
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+&nbsp;
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+&nbsp;
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+&nbsp;
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 
 #### Frameworks:
 
@@ -40,10 +54,13 @@
 
 #### Github Stats
 
-[theme-dark]: https://github.com/zubrailx/zubrailx/#gh-dark-mode-only
-[theme-light]: https://github.com/zubrailx/zubrailx/#gh-light-mode-only
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=dark&text_color=eeeeee&bg_color=0d1117)][theme-dark] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubrailx&layout=compact&langs_count=10&hide_border=true&hide_title=true&theme=light)][theme-light] |[![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&hide_title=true&show_icons=true&include_all_commits=true)][theme-dark] [![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=light&&hide_title=true&show_icons=true&include_all_commits=true)][theme-light] |
 |-|-|
 
 </details>
+
+
+
+[theme-dark]: https://github.com/zubrailx/zubrailx/#gh-dark-mode-only
+[theme-light]: https://github.com/zubrailx/zubrailx/#gh-light-mode-only
