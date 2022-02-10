@@ -63,10 +63,18 @@ For for information check out my resume.
 &nbsp;
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />]()
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />]()
-
 <!--
 #### Additional experience:
+
+
+---
+### Professional experience:
+
+
+---
+### Personal projects:
 -->
+
 ---
 <details>
 <summary>More stuff about me</summary>
