@@ -87,6 +87,7 @@ For for information check out my resume.
 
 </details>
 
+[![Statistics](https://github-readme-stats.vercel.app/api?username=zubrailx&hide_rank=true&disable_animations=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&hide_title=true&show_icons=true&include_all_commits=true)][theme-dark]
 
 
 [theme-dark]: https://github.com/zubrailx/zubrailx/#gh-dark-mode-only
