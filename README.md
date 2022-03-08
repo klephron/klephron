@@ -21,13 +21,11 @@
 [![website](icons/telegram-light.svg)][telegram-light]
 [![website](icons/telegram-dark.svg)][telegram-dark]
 
-
+<!--
 ---
 ### Technical Skills:
 
-<!--
 For for information check out my resume.
--->
 
 #### Languages:
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />]()
@@ -62,7 +60,7 @@ For for information check out my resume.
 &nbsp;
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />]()
 [<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />]()
-<!--
+
 #### Additional experience:
 
 
@@ -72,11 +70,11 @@ For for information check out my resume.
 
 ---
 ### Personal projects:
--->
 
+-->
 ---
 <details>
-<summary>More stuff about me</summary>
+<summary>More information</summary>
 
 
 #### Github Stats:
