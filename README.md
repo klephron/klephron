@@ -1,7 +1,6 @@
 <!-- 
 ### Seeking position in: -
 
-
 ---
 -->
 ### How to reach me:
