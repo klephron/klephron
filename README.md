@@ -7,8 +7,8 @@
 
 [vk-light]: https://vk.com/zubrailx#gh-dark-mode-only
 [vk-dark]: https://vk.com/zubrailx#gh-light-mode-only
-[linkedin-light]: https://www.linkedin.com/in/nikita-kulakov-8a21b7203#gh-dark-mode-only
-[linkedin-dark]: https://www.linkedin.com/in/nikita-kulakov-8a21b7203#gh-light-mode-only
+[linkedin-light]: https://www.linkedin.com/in/zubrailx#gh-dark-mode-only
+[linkedin-dark]: https://www.linkedin.com/in/zubrailx#gh-light-mode-only
 [telegram-light]: https://t.me/zubrailx#gh-dark-mode-only
 [telegram-dark]: https://t.me/zubrailx#gh-light-mode-only
 
