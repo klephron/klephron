@@ -9,12 +9,14 @@
 [vk-dark]: https://vk.com/zubrailx#gh-light-mode-only
 [linkedin-light]: https://www.linkedin.com/in/zubrailx#gh-dark-mode-only
 [linkedin-dark]: https://www.linkedin.com/in/zubrailx#gh-light-mode-only
-[telegram-light]: https://t.me/zubrailx#gh-dark-mode-only
-[telegram-dark]: https://t.me/zubrailx#gh-light-mode-only
+[telegram-light]: https://t.me/klephron#gh-dark-mode-only
+[telegram-dark]: https://t.me/klephron#gh-light-mode-only
 
+<!--
 [![website](icons/vk-light.svg)][vk-light]
 [![website](icons/vk-dark.svg)][vk-dark]
 &nbsp;&nbsp;
+-->
 [![website](icons/linkedin-light.svg)][linkedin-light]
 [![website](icons/linkedin-dark.svg)][linkedin-dark]
 &nbsp;&nbsp;
